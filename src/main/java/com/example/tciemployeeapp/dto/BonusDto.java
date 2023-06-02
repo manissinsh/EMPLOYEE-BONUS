@@ -10,7 +10,7 @@ import java.io.Serializable;
  * Bonus
  *
  * @author Manish Singh
- * @email v-manishs1@xiaomi.com
+ * @email manissinsh@gmail.com
  * @project TciEmployeeApp
  * @Date 01-06-2023
  * @Description
